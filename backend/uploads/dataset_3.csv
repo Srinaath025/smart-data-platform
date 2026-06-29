@@ -1,0 +1,21 @@
+First Name,Email,Date,Sales,Region
+  john ,john@example.com,2023-01-01,100,East
+ALICE,alice@example.com,12/31/2022,150,West
+john,john@example.com,2023-01-01,100,East
+Bob,bob@invalid,2023-05-15,,East
+Charlie,charlie@example.com,2023-06-20,200,West
+David,,07-12-2023,120,East
+Eva,eva@example.com,2023-08-05,99999,West
+Frank,frank@example.com,09/09/2023,-50,East
+john,john@example.com,2023-01-01,100,East
+ALICE,alice@example.com,12/31/2022,150,West
+Grace,grace@example.com,2023-11-12,180,North
+Hannah,hannah@example.com,2023-12-01,210,North
+Ian,ian@example.com,2024-01-10,250,North
+Jack,jack@example.com,2024-02-15,300,South
+Kelly,kelly@example.com,2024-03-20,350,South
+Liam,liam@example.com,2024-04-25,400,South
+Mona,mona@example.com,2024-05-30,450,South
+Nate,nate@example.com,2024-06-15,500,South
+Olivia,olivia@example.com,2024-07-20,550,South
+Peter,peter@example.com,2024-08-25,600,South
